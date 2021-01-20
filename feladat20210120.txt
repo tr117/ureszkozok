@@ -1,0 +1,10 @@
+Gyűjtsön mindenki ide 3 űreszközt, amelyeket az emberiség használt!
+ Próbáljuk először a legfrissebeket begyűjteni.
+Ha látod már azt az űreszközt a gyűjteményben, amit beleírnál, akkor keress másikat. A cél, hogy min~l több űredzközbevet összegyűjtsünk. Először az elmúlt 30 évből keress.
+ Ha olyan, még nem szereplőt nem találsz, akkor kereshetsz régebbieket is.
+Írd le az űreszköz nevét, egy hozzákspcsolódó fontos dátumot, mellé a monogrammodat. Ezeket mind egy sorba pontosvesszővel elválasztva
+Mindenki külön sorba tegye. 
+A hozzájárulás módja ugye úgy indul, hogy forkolod ezt a repositoryt.
+Amíg nem kaptál meghívót úgy mint a kenguruk repositoryhoz, addig a pull requested módon teheted meg a hozzájárulást. Utána már, akár git-bashból, a helyi gépedről is.
+
+A projekt során az űreszközökről fogunk információt gyűjteni és weblarendszert készíteni. 
