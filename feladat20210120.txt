@@ -8,3 +8,10 @@ A hozzájárulás módja ugye úgy indul, hogy forkolod ezt a repositoryt.
 Amíg nem kaptál meghívót úgy mint a kenguruk repositoryhoz, addig a pull requested módon teheted meg a hozzájárulást. Utána már, akár git-bashból, a helyi gépedről is.
 
 A projekt során az űreszközökről fogunk információt gyűjteni és weblarendszert készíteni. 
+
+Tárgyak:
+
+- Ürszondák:
+  - Mariner-10 (1973. november 3.)
+  - Pioneer-10 (1972. március 3.)
+  - Pioneer-11 (1973. április 6.)
