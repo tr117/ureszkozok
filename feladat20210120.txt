@@ -19,5 +19,7 @@ Tárgyak:
   - Pioneer-5  (1960. ?. ?.)
   - Dawn (2007. szeptember)
   - Szputnyik-1 (1957. október 4.)
-  - OSIRIS-REx (https://hvg.hu/cimke/%C5%B1rszonda) 
+  - OSIRIS-REx (https://hvg.hu/cimke/%C5%B1rszonda)
+  - Voyager-1 (1977. szeptember 5.) 
+  - Voyager-2 (1977 augusztus 20.)
 
